@@ -3,7 +3,7 @@
 <br/>
 
 <!--![Insert Image Link Here]()-->
-
+<a href="https://ahbenn86.github.io/password-strength/">Click to view<a/>
 
 
 <br/>
