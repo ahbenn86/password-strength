@@ -1,10 +1,10 @@
 # Password Strength
-### 
+### Background image blur decreases as password strength increases
 <br/>
 
 <!--![Insert Image Link Here]()-->
 
-> Currently under development 
+
 
 <br/>
 
